@@ -3,7 +3,7 @@ Sharif KH Restaurant 🍽️
 A simple restaurant website built using React and Vite.
 
 🚀 Live Demo
-https://6a196b66e33f1d9563432e30--glittering-mandazi-df1996.netlify.app/
+(https://sharif-kh-restaurant.vercel.app/)
 
 📌 Pages
 Home
