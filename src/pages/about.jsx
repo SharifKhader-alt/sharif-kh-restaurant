@@ -26,9 +26,7 @@ export default function About() {
       <p>
         We are proud to welcome every guest like part of our family.
       </p>
-      <footer className="text-center mt-5 p-3">
-  <p>© 2026 Sharif KH Restaurant | All Rights Reserved</p>
-</footer>
+      
       
     </div>
   );
